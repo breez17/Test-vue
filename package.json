@@ -1,0 +1,25 @@
+{
+  "name": "bots-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "uniqid": "^5.2.0",
+    "v-calendar": "^1.0.8",
+    "vue": "^2.6.11",
+    "vue-material": "^1.0.0-beta-14",
+    "vuelidate": "^0.7.5",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-vuex": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
